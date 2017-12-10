@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MContact</string>
+    <string name="item_import">Import</string>
+    <string name="item_export">Export</string>
+    <string name="item_exit">Thoát</string>
+    <string name="context_header">Chọn tác vụ</string>
+</resources>
