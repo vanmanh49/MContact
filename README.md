@@ -12,7 +12,7 @@
 ```
 ## Screenshots
 ## I. Màn hình chính
-<img src="/screenshots/them/1.png" alt="Screenshot" height="480" width="270">
+<img src="/screenshots/home.png" alt="Screenshot" height="480" width="270">
 
 ## II. Các chức năng
 1. Thêm liên hệ
