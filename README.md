@@ -49,7 +49,5 @@ MContact | Ứng dụng mặc định của máy
 <img src="/screenshots/exit/1.png" alt="Screenshot" height="480" width="270"> <img src="/screenshots/exit/2.png" alt="Screenshot" height="480" width="270">
 
 **********************************************************
-## Hết
- :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
 
